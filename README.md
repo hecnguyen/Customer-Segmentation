@@ -44,7 +44,7 @@ In this project, I segmented customers based on their purchasing behavior and en
    
   • The West Coast is generating the highest revenue compared to all other regions  </p>
 
-<h3>Impact of Season on Purchase: </h3> 
+<h3>Seasonal Trends: </h3> 
 
 ![Screenshot 2024-08-29 163259](https://github.com/user-attachments/assets/0dfe7b07-adf6-4570-9aa6-7f899937dc87)
 <p>• Customers tend to make more purchases during winter and autumn compared to spring and summer</p>
