@@ -3,6 +3,8 @@ Segment customers based on their purchasing behavior and enabling creation of ta
 <h2>Summary of Insights</h2>
 
 <h3>Age Group:</h3>
+![Screenshot 2024-08-29 151344](https://github.com/user-attachments/assets/e4fc950d-832c-4d87-9f46-f9bf907dd0c8)
+
 <p>•More females than males shop at the supermarket, and they also spend more on average
    
   •There are more members compared to normal customers and the members are spending more on average</p>
