@@ -1,5 +1,7 @@
 # Customer-Segmentation
-Segment customers based on their purchasing behavior and enabling creation of targeted marketing campaigns
+<h2>Introduction</h2>
+
+In this project, I segmented customers based on their purchasing behavior and enabled the creation of targeted marketing campaigns. I obtained this dataset from Kaggle, which contains over 3,900 entries. It includes demographic information, purchase history, product preferences, and preferred shopping channels (online or offline). This dataset helps businesses aiming to tailor their strategies to meet customer needs, enhance the shopping experience, and ultimately drive sales and loyalty. In this project I wanted to see if there are any specific product categories that are preferred by certain age groups.
 <h2>Summary of Insights</h2>
 
 <h3>Age Group:</h3>
@@ -33,7 +35,7 @@ Segment customers based on their purchasing behavior and enabling creation of ta
 <h3>Gender Spending: </h3> 
 
 ![Screenshot 2024-08-29 151717](https://github.com/user-attachments/assets/3aa87421-a66e-427c-b6d0-aa66bd43a70e)
-<p>•More males are shopping than females, and they are also spending more</p>
+<p>•Males account for 67% of the total spending, while females contribute 32% to purchases</p>
 
 <h3>Location Total Amount: </h3> 
 
