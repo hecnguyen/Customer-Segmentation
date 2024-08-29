@@ -54,5 +54,5 @@ In this project, I segmented customers based on their purchasing behavior and en
 
 • Explore strategies to boost sales during spring and summer by promoting seasonal clothing with spring and summer themes
 
-• Montana stands out with a remarkable number of customers, indicating a thriving consumer market</p>
+• Montana stands out with a remarkable number of customers, indicating a thriving consumer market. Continue to drive sales growth in this region</p>
 
