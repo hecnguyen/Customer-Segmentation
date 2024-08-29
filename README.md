@@ -40,7 +40,7 @@ In this project, I segmented customers based on their purchasing behavior and en
 <h3>Location Total Amount: </h3> 
 
 ![Screenshot 2024-08-29 151639](https://github.com/user-attachments/assets/7844b15b-891d-4714-ba3f-5ceaef86fb99)
-<p>• Montana,Illinois, and California are generating the most revenue
+<p>• Montana, Illinois, and California are generating the most revenue
    
   • The West Coast is generating the highest revenue compared to all other regions  </p>
 
@@ -50,9 +50,9 @@ In this project, I segmented customers based on their purchasing behavior and en
 <p>• Customers tend to make more purchases during winter and autumn compared to spring and summer</p>
   
 <h2>Recommendations & Next Steps</h2>
-• Investigate why the outerwear category has the lowest sales compared to other categories. Consider either discontinuing outerwear or exploring promotional strategies to boost its sales
+<p>• Investigate why the outerwear category has the lowest sales compared to other categories. Consider either discontinuing outerwear or exploring promotional strategies to boost its sales
 
 • Explore strategies to boost sales during spring and summer by promoting seasonal clothing with spring and summer themes
 
-• Montana stands out with a remarkable number of customers, indicating a thriving consumer market
+• Montana stands out with a remarkable number of customers, indicating a thriving consumer market</p>
 
