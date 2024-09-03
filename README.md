@@ -1,4 +1,3 @@
-# Customer Segmentation
 <h2>Introduction</h2>
 
 In this project, I segmented customers based on their purchasing behavior and enabled the creation of targeted marketing campaigns. I obtained this dataset from Kaggle, which contains over 3,900 entries. It includes demographic information, purchase history, product preferences, and preferred shopping channels (online or offline). This dataset helps businesses aiming to tailor their strategies to meet customer needs, enhance the shopping experience, and ultimately drive sales and loyalty. In this project I wanted to see if there are any specific product categories that are preferred by certain age groups.
